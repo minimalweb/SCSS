@@ -1,5 +1,5 @@
 # Choose your editor:
-In this repository you'll find support for the [SASS](http://sass-lang.com/) **.scss style** syntax, just choose the editor you use and follwo the readme file there:
+In this repository you'll find support for the [Sass](http://sass-lang.com/) **SCSS style** syntax, just choose the editor you use and follow the readme file there:
 
 - [TextMate](https://github.com/kuroir/SCSS/tree/TextMate)
 - [SublimeText2](https://github.com/kuroir/SCSS/tree/SublimeText2)
