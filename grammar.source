@@ -336,7 +336,7 @@
 		// Unit 30<px> <- this
 		constant_unit = {
 			name = 'keyword.other.unit.css';
-			match = '(?<=[\d])(px|pt|cm|mm|in|em|ex|pc)\b|%';
+			match = '(?<=[\d])(px|pt|cm|mm|in|em|ex|pc|deg)\b|%';
 		};
 		// Keywords for values
 		constant_property_value = {
